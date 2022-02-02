@@ -1,0 +1,11 @@
+ Volume in drive D is DATA
+ Volume Serial Number is C202-8D97
+
+ Directory of D:\Rizvi\Project
+
+02-02-2022  12:21    <DIR>          .
+02-02-2022  12:21    <DIR>          ..
+02-02-2022  10:27            12,033 test.docx
+02-02-2022  12:21                 0 test.txt
+               2 File(s)         12,033 bytes
+               2 Dir(s)  985,161,670,656 bytes free
